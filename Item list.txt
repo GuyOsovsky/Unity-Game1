@@ -1,0 +1,56 @@
+-dirt block
+-grass block
+-stone block
+-snow block
+-sand block
+-clay block
+-brick block
+-concrete block
+-auotomatic door
+-auotomatic gate
+-glass block
+-reinfored glass
+-iron shard
+-gold shard
+-coal shard
+-iron ingot
+-gold ingot
+-workbench
+-furnace
+-high power furnace
+-electric furnace
+-fuel generator
+-wind turbine
+-nuclear generator (optional)
+-uranium (optional)
+-wires
+-ak 47 rifle
+-five seven pistol
+-glock pistol
+-ump smg
+-m16 rifle
+-shotgun
+-metal purifier
+-centrifuge
+-battery pack
+-cables
+-pistol ammunition
+-rifle ammunition
+-shotgun ammunition
+-smg ammunition
+-AA gun 150mm
+-AA gun 300mm
+-AA gun 450mm
+-heat seeking missile
+-bio seeking missile
+-nepalm missile
+-missile luncher
+-missile silo
+-machine gun 15mm
+-machine gun 30mm
+-ammunition 15mm
+-ammunition 30mm
+-cannon 100mm
+-cannon 200mm
+-cannon shell 100mm
+-cannon shell 200mm

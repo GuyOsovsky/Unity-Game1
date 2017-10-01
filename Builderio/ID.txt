@@ -1,0 +1,4 @@
+snow = 1
+grass = 2
+Dirt = 3
+stone = 4
