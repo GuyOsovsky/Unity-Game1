@@ -1,0 +1,45 @@
+complete #
+incomplete @
+need fixes &
+
+
+
+0.00.01 
+added-
+mainframe #
+chunks creation &
+player creation &
+GUI #
+
+0.00.02
+added-
+day cycle #
+fixes-
+optimazation of chunk creation &
+
+0.00.03
+added
+item system #
+crafting system @
+inventory system #
+
+0.00.04
+added-
+basic threading &
+
+0.01.00
+fixes-
+basic threading #
+
+***************************12.4.17
+
+0.01.01
+fixes-
+chunk saving 
+crafting system 
+
+0.01.02
+fixes-
+player creation
+
+
